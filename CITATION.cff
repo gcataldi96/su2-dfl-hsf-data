@@ -2,6 +2,9 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the associated paper and software metadata below."
 title: "Data and code for \"Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory\""
 type: software
+version: "1.0.0"
+doi: "10.5281/zenodo.19192909"
+date-released: 2026-03-23
 authors:
   - family-names: "Cataldi"
     given-names: "Giovanni"
