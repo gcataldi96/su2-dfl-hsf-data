@@ -1,4 +1,4 @@
-# Data and code for "Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory" (PRL)
+# Data and code for "Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory"
 
 This repository contains the datasets and Python scripts used to reproduce the figures in the paper.
 
