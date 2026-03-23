@@ -1,0 +1,54 @@
+{
+  "title": "Data and code for \"Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory\"",
+  "description": "Datasets and Python plotting scripts used to reproduce the figures for the paper \"Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory\". The repository contains canonical NumPy .npz data files together with the scripts required to regenerate the paper figures.",
+  "creators": [
+    {
+      "name": "Cataldi, Giovanni",
+      "orcid": "0000-0002-9073-8978",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Calajo, Giuseppe",
+      "orcid": "0000-0002-5749-2224",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Silvi, Pietro",
+      "orcid": "0000-0001-5279-7064",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Montangero, Simone",
+      "orcid": "0000-0002-8882-2169",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Halimeh, Jad C.",
+      "orcid": "0000-0002-0659-7990",
+      "type": "ProjectMember"
+    }
+  ],
+  "keywords": [
+    "lattice gauge theory",
+    "SU(2)",
+    "disorder-free localization",
+    "Hilbert space fragmentation",
+    "quantum many-body dynamics"
+  ],
+  "license": "apache-2.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.1103/fhfy-dh85",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://arxiv.org/abs/2505.04704",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
